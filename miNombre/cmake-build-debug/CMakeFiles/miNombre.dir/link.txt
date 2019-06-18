@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/miNombre.dir/main.c.o  -o miNombre 

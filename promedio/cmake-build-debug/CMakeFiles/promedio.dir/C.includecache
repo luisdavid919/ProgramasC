@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/Escritorio/Proyectos/promedio/library.c
+library.h
+/home/david/Escritorio/Proyectos/promedio/library.h
+stdio.h
+-
+
+/home/david/Escritorio/Proyectos/promedio/library.h
+

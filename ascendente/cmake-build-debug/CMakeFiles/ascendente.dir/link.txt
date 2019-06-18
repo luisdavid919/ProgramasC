@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ascendente.dir/main.c.o  -o ascendente 

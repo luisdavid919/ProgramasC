@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpromedio.a  CMakeFiles/promedio.dir/library.c.o
+/usr/bin/ranlib libpromedio.a

@@ -1,0 +1,3 @@
+/home/david/Escritorio/Proyectos/promedioIF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Escritorio/Proyectos/promedioIF/cmake-build-debug/CMakeFiles/promedioIF.dir
+/home/david/Escritorio/Proyectos/promedioIF/cmake-build-debug/CMakeFiles/edit_cache.dir

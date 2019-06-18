@@ -1,0 +1,3 @@
+/home/david/Escritorio/Proyectos/switchcase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Escritorio/Proyectos/switchcase/cmake-build-debug/CMakeFiles/switchcase.dir
+/home/david/Escritorio/Proyectos/switchcase/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/david/Escritorio/Proyectos/arreglos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Escritorio/Proyectos/arreglos/cmake-build-debug/CMakeFiles/arreglos.dir
+/home/david/Escritorio/Proyectos/arreglos/cmake-build-debug/CMakeFiles/edit_cache.dir

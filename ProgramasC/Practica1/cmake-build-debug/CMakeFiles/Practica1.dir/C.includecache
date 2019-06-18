@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/Escritorio/Proyectos/ProgramasC/Practica1/main.c
+stdio.h
+-
+ncurses.h
+-
+stdlib.h
+-
+

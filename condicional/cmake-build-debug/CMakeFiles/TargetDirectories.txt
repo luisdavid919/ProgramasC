@@ -1,0 +1,3 @@
+/home/david/Escritorio/Proyectos/condicional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Escritorio/Proyectos/condicional/cmake-build-debug/CMakeFiles/condicional.dir
+/home/david/Escritorio/Proyectos/condicional/cmake-build-debug/CMakeFiles/edit_cache.dir
