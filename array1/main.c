@@ -4,8 +4,8 @@
 
 int main()
 {
-    int i,j,temp,array1[11],array2[11],array3[22],index=0,tope=11,topar3=22;
-
+    int i,j,temp,array1[11],array2[11],index=0,tope=11,topar3=22;
+    long int array3[22];
     srand(time(NULL));
 
     for(i=0;i<=10;i++){
@@ -56,25 +56,44 @@ int main()
     printf("\n\n\033[36mArreglo 3 posicion 0: %d\n", array3[0]);
     printf("\033[36mArreglo 3 posicion 21: %d\n", array3[21]);
 
-        //metodo de ordenamiento burbuja//
-
-        for (i=0;i<topar3;i++){
-            for(j=0;j<topar3-i;j++)
-            {
-                if(array3[j]>array3[j+1]){
-                    temp=array3[j];
-                    array3[j]=array3[j+1];
-                    array3[j+1]=temp;
-                }
-            }
-        }
-
-            printf("\n\n\033[33mEl arreglo por ordenamiento burbuja es:\n");
-            for(i = 0; i <=21; i++)
-                printf("%d\t", array3[i]);
-
     return 0;
 
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //metodo de ordenamiento burbuja//
+
+
+    /*  for (i=0;i<topar3;i++){
+         for(j=0;j<topar3-i;j++)
+         {
+             if(array3[j]>array3[j+1]){
+                 temp=array3[j];
+                 array3[j]=array3[j+1];
+                 array3[j+1]=temp;
+             }
+         }
+     }
+
+    printf("\n\n\033[33mEl arreglo por ordenamiento burbuja de modo ascendente es:\n");
+         fflush(stdin);
+         for(i=0;i<22;i++)
+             printf("%d\t", array3[i]);*/
+
 
